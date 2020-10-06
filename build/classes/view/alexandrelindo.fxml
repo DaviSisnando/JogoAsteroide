@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" style="-fx-background-color: #000;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="299.0" layoutY="345.0" mnemonicParsing="false" style="-fx-background-color: #000; -fx-text-fill: #fff;" text="Start">
+         <font>
+            <Font name="Bell MT" size="60.0" />
+         </font>
+      </Button>
+      <Text fill="#f5f4f4" layoutX="157.0" layoutY="155.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ASTEROIDS">
+         <font>
+            <Font size="96.0" />
+         </font>
+      </Text>
+      <Button layoutX="299.0" layoutY="456.0" mnemonicParsing="false" style="-fx-background-color: #000; -fx-text-fill: #fff;" text="Score">
+         <font>
+            <Font name="Bell MT" size="60.0" />
+         </font>
+      </Button>
+      <Button layoutX="299.0" layoutY="573.0" mnemonicParsing="false" style="-fx-background-color: #000; -fx-text-fill: #fff;" text="Quit">
+         <font>
+            <Font name="Bell MT" size="60.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

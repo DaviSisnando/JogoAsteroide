@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" style="-fx-background-color: #000;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="WHITE" layoutX="290.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ASTEROID" wrappingWidth="283.880859375">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="329.0" layoutY="227.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PONTUAÇÃO">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="149.0" layoutY="333.0" strokeType="OUTSIDE" strokeWidth="0.0" text="NOME" wrappingWidth="57.58642578125">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="596.0" layoutY="331.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SCORE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="160.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AAA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="162.0" layoutY="440.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BBB">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="161.0" layoutY="501.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CCC">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="159.0" layoutY="558.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DDD">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="164.0" layoutY="617.0" strokeType="OUTSIDE" strokeWidth="0.0" text="EEE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="606.0" layoutY="384.0" strokeType="OUTSIDE" strokeWidth="0.0" text="AAS">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="607.0" layoutY="439.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BBS">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="607.0" layoutY="500.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CCS">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="608.0" layoutY="558.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DDS">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="609.0" layoutY="615.0" strokeType="OUTSIDE" strokeWidth="0.0" text="EES">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
